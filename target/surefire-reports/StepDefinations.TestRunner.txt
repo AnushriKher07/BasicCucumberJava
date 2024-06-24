@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: StepDefinations.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.555 s <<< FAILURE! -- in StepDefinations.TestRunner
+feature to test login functionality.Check Login is successfull with valid credentials -- Time elapsed: 0.123 s <<< ERROR!
+io.cucumber.java.PendingException: TODO: implement me
+	at StepDefinations.LoginSteps.clicks_on_login_page(LoginSteps.java:25)
+	at ✽.clicks on login page(file:///C:/Users/anush/eclipse-workspace/CucumberJava/src/test/resources/Features/login.feature:8)
+
